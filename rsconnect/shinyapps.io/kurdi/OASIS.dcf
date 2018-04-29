@@ -1,0 +1,8 @@
+name: OASIS
+account: kurdi
+server: shinyapps.io
+bundleId: 305793
+url: https://kurdi.shinyapps.io/OASIS
+when: 1446841105.51594
+asMultiple: FALSE
+asStatic: FALSE
